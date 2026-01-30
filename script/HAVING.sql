@@ -1,6 +1,6 @@
 -- WHERE before the aggragation function whereas HAVING after the aggregation
 --Q Find the average score for each country considering only the customer with a score not equal to 0
--- and return only those countries with an average score greater than 430
+-- and return only those countries with an average score greater than 430   
 
 SELECT 
 	country,
