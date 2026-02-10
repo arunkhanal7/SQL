@@ -4,7 +4,7 @@
 -- insert new values into the customers table
 
 --column and value must be in same order
-
+use MyDatabase
 INSERT INTO customers (id,first_name,country,score)
 VALUES
 	(6,'Anna','USA',NULL),
