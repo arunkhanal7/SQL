@@ -12,4 +12,4 @@ SELECT
 	SUM(score) as total_score,
 	COUNT(id) as total_count
 FROM customers
-GROUP BY country
+GROUP BY country 
